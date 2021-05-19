@@ -9,6 +9,7 @@ A humble roadmap for Swift and iOS development
 * [Network](#network)
 * [Xcode Server](#xcode-server)
 * [Continuous Integration (CI)](#continuous-integration-ci)
+* [White Label App](#white-label-app)
 
 # Resources
 
@@ -48,3 +49,9 @@ Xcode Server for iOS: Getting Started | https://www.raywenderlich.com/12258400-x
 What is about | Source | Source Name
 ------------|--------|--------------
 Continuous Integration With GitHub, Fastlane & Jenkins | https://www.raywenderlich.com/1774995-continuous-integration-with-github-fastlane-jenkins | Ray Wenderlich
+
+## White Label App
+
+What is about | Source | Source Name
+------------|--------|--------------
+How to create a white label iOS app (Part 1) | https://www.rockandnull.com/how-to-create-a-white-label-ios-app/ | Rock and Null
