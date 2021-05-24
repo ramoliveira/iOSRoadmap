@@ -9,6 +9,7 @@ A humble roadmap for Swift and iOS development
 * [Network](#network)
 * [Xcode Server](#xcode-server)
 * [Continuous Integration (CI)](#continuous-integration-ci)
+* [Interface Builder](#interface-builder)
 * [White Label App](#white-label-app)
 
 # Resources
