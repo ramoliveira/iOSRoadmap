@@ -69,4 +69,4 @@ How to create a white label iOS app (Part 1) | https://www.rockandnull.com/how-t
 
 What is about | Source | Source Name
 ------------|--------|--------------
-Rule Directory | https://realm.github.io/SwiftLint/rule-directory.html
+Rule Directory | https://realm.github.io/SwiftLint/rule-directory.html | Realm Documentation
