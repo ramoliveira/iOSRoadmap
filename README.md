@@ -11,6 +11,7 @@ A humble roadmap for Swift and iOS development
 * [Continuous Integration (CI)](#continuous-integration-ci)
 * [Interface Builder](#interface-builder)
 * [White Label App](#white-label-app)
+* [SwiftLint](#swiftlint)
 
 # Resources
 
@@ -63,3 +64,9 @@ IBInspectable / IBDesignable | https://nshipster.com/ibinspectable-ibdesignable/
 What is about | Source | Source Name
 ------------|--------|--------------
 How to create a white label iOS app (Part 1) | https://www.rockandnull.com/how-to-create-a-white-label-ios-app/ | Rock and Null
+
+## Swiftlint
+
+What is about | Source | Source Name
+------------|--------|--------------
+Rule Directory | https://realm.github.io/SwiftLint/rule-directory.html
